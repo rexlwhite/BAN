@@ -56,4 +56,4 @@ async def unban_error(ctx, error):
 keep_alive()
 
 # แทนที่ 'YOUR_BOT_TOKEN' ด้วย Token ของบอทคุณ
-bot.run(os.getenv(''))
+bot.run(os.getenv('TOKEN'))
